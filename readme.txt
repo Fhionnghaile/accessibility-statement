@@ -1,5 +1,5 @@
 === Accessibility Statement ===
-Contributors: yourname
+Contributors: fhionnghaile
 Tags: accessibility, a11y, wcag, statement, compliance
 Requires at least: 6.2
 Tested up to: 6.6

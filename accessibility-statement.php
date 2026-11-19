@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Accessibility Statement
- * Plugin URI:        https://example.com/plugins/accessibility-statement
+ * Plugin URI:        https://github.com/fhionnghaile/accessibility-statement
  * Description:       Adds an honest, WCAG 2.2 AA accessibility statement via the [accessibility_statement] shortcode and auto-creates an /accessibility page. Organisation name, contact e-mail and review date are configurable.
  * Version:           1.0.0
  * Requires at least: 6.2
