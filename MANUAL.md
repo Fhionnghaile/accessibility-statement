@@ -11,6 +11,9 @@ A WordPress plugin that creates an accessibility statement page and keeps its re
 ## 3. Demo
 Install on a test site and visit `/accessibility`. Capture to record: the settings page and the rendered statement.
 
+![Real test run, captured 21 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 21 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** WordPress 6.2+, PHP 7.4+.
 
