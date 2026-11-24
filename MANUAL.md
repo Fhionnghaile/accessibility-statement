@@ -1,5 +1,7 @@
 # Accessibility Statement (WordPress plugin) — manual
 
+[![CI](https://github.com/Fhionnghaile/accessibility-statement/actions/workflows/ci.yml/badge.svg)](https://github.com/Fhionnghaile/accessibility-statement/actions/workflows/ci.yml) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/accessibility-statement/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/accessibility-statement)
+
 *One page, eight blocks. Every figure here comes from this repository's own tests and README.*
 
 ## 1. Claim
